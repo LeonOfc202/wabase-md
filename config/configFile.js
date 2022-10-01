@@ -7,9 +7,9 @@ exports.info = {
     prefix: this.testMode ? '#' : '.',
     parentPrefix: ['.', '/', '!', '#'],
     dono: {
-        nome: "Guilherme",
+        nome: "Lavender",
         numero: [
-            "COLOQUE_SEU_NUMERO_AQUI_DESSA_FORMA: 5522981274455@s.whatsapp.net"
+            "COLOQUE_SEU_NUMERO_AQUI_DESSA_FORMA: 6287760550924@s.whatsapp.net"
         ]
     },
     grupo: "",
